@@ -34,5 +34,13 @@ car-price-prediction/
 │ ├── 2_EDA.ipynb
 │ ├── 3_feature_engineering.ipynb
 │ └── 4_model_training.ipynb
+
+Author
+
+Your Name: ASHFAQUE AHMED
+
+Email: ashfaqueahmed3150@gmail.com
+
+GitHub:https://github.com/Ashfaque-Ahmed786/-Car-Price-Prediction-Project/edit/main/README.md
 ├── README.md # Project introduction & instructions
 └── requirements.txt # Required Python packages
